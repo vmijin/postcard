@@ -13,6 +13,8 @@
 		AA396B7719F285A000A5A046 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AA396B7619F285A000A5A046 /* Images.xcassets */; };
 		AA396B7A19F285A000A5A046 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = AA396B7819F285A000A5A046 /* LaunchScreen.xib */; };
 		AA396B8619F285A100A5A046 /* PostCardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA396B8519F285A100A5A046 /* PostCardTests.swift */; };
+		AA396B9019F28C7000A5A046 /* 640_1336_tutorial_screen_1.1.png in Resources */ = {isa = PBXBuildFile; fileRef = AA396B8F19F28C7000A5A046 /* 640_1336_tutorial_screen_1.1.png */; };
+		AA396B9219F28EB200A5A046 /* clear_popup.png in Resources */ = {isa = PBXBuildFile; fileRef = AA396B9119F28EB200A5A046 /* clear_popup.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		AA396B7F19F285A100A5A046 /* PostCardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostCardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		AA396B8419F285A100A5A046 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		AA396B8519F285A100A5A046 /* PostCardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCardTests.swift; sourceTree = "<group>"; };
+		AA396B8F19F28C7000A5A046 /* 640_1336_tutorial_screen_1.1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 640_1336_tutorial_screen_1.1.png; sourceTree = "<group>"; };
+		AA396B9119F28EB200A5A046 /* clear_popup.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = clear_popup.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +94,8 @@
 		AA396B6D19F285A000A5A046 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				AA396B9119F28EB200A5A046 /* clear_popup.png */,
+				AA396B8F19F28C7000A5A046 /* 640_1336_tutorial_screen_1.1.png */,
 				AA396B6E19F285A000A5A046 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -192,7 +198,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AA396B9019F28C7000A5A046 /* 640_1336_tutorial_screen_1.1.png in Resources */,
 				AA396B7519F285A000A5A046 /* Main.storyboard in Resources */,
+				AA396B9219F28EB200A5A046 /* clear_popup.png in Resources */,
 				AA396B7A19F285A000A5A046 /* LaunchScreen.xib in Resources */,
 				AA396B7719F285A000A5A046 /* Images.xcassets in Resources */,
 			);
